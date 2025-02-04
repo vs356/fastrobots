@@ -6,8 +6,8 @@
 
 ## 2. Lab Tasks
 * Configurations: The most relevant configurations in Lab 1 were the updated MAC Address and UUID, which I have copied below.
-    MAC Address: C0:81:48:26:03:64
-    UUID: e2402ec7-6475-4e44-8a84-14f5f0a2714a
+      **MAC Address:** C0:81:48:26:03:64
+      **UUID:** e2402ec7-6475-4e44-8a84-14f5f0a2714a
   ### Lab 1A: Running Examples
   1. Blink (Video)
  
