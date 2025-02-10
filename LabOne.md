@@ -10,13 +10,14 @@
       **UUID:** e2402ec7-6475-4e44-8a84-14f5f0a2714a
   ### Lab 1A: Running Examples
   1. Blink (Video)
-  ![Google Drive Image](https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=sharing)
-  3. Serial (Image)
-  
-  4. Temperature Sensor (Video)
-  ![Google Drive Image](https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=sharing)
-  5. Microphone Output (Video)
-  ![Google Drive Image](https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing)
+![Blink Example](https://drive.google.com/uc?id=1xIzqJUezocPGHhrTWb7VjePoeF5r74GS)
+  2. Serial (Image)
+<img src="images/exSerial.png">
+  3. Temperature Sensor (Video)
+![Temperature Sensor Example](https://drive.google.com/uc?id=1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e)
+  4. Microphone Output (Video)
+![Microphone Output](https://drive.google.com/uc?id=1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U)
+
   ### Lab 1B: Ensuring Communication Ability w/RedBoard Artemis Nano
   
 
