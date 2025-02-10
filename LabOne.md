@@ -10,14 +10,18 @@
       **UUID:** e2402ec7-6475-4e44-8a84-14f5f0a2714a
   ### Lab 1A: Running Examples
   1. Blink (Video)
+
 <img src="https://drive.google.com/uc?id=1xIzqJUezocPGHhrTWb7VjePoeF5r74GS"
      alt="Blink Example"/>
-  3. Serial (Image)
+  2. Serial (Image)
+
 <img src="images/exSerial.png">
-  4. Temperature Sensor (Video)
+  3. Temperature Sensor (Video)
+
 <img src="https://drive.google.com/uc?id=1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e"
      alt="Temperature Sensor Example"/>
-  6. Microphone Output (Video)
+  4. Microphone Output (Video)
+
 <img src="https://drive.google.com/uc?id=1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U"
      alt="Microphone Output Example"/>
 
