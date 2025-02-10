@@ -9,17 +9,17 @@
       **MAC Address:** C0:81:48:26:03:64
       **UUID:** e2402ec7-6475-4e44-8a84-14f5f0a2714a
 ### Lab 1A: Running Examples
-  1. Blink [(Video)](https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link)
+1. Blink [(Video)](https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link)
 
 <img src="https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link"
      alt="Blink Example"/>
-  2. Serial (Image)
+2. Serial (Image)
 <img src="images/exSerial.png">
-  3. Temperature Sensor [(Video)](https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link)
+3. Temperature Sensor [(Video)](https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link)
 
 <img src="https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link"
      alt="Temperature Sensor Example"/>
-  4. Microphone Output [(Video)](https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing)
+4. Microphone Output [(Video)](https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing)
 
 <img src="https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing"
      alt="Microphone Output Example"/>
