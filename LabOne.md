@@ -10,16 +10,15 @@
       **UUID:** e2402ec7-6475-4e44-8a84-14f5f0a2714a
   ### Lab 1A: Running Examples
   1. Blink (Video)
- 
-  2. Serial (Image)
- 
-  3. Temperature Sensor (Video)
- 
-  4. Microphone Output (Video)
-
+  ![Google Drive Image](https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=sharing)
+  3. Serial (Image)
+  
+  4. Temperature Sensor (Video)
+  ![Google Drive Image](https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=sharing)
+  5. Microphone Output (Video)
+  ![Google Drive Image](https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing)
   ### Lab 1B: Ensuring Communication Ability w/RedBoard Artemis Nano
   
 
 ## 3. Discussion
-* Briefly describe what you’ve learned, challenges that you faced, and/or any unique solutions used to fix problems. It is important to keep these writeups succinct. You will not get extra points for writing more words if the content doesn’t contribute to communicating your understanding of the lab material.
-In this lab, I became familiar with using the sensors of the RedBoard Artemis Nano and receiving data using each of its sensors. The platform is not very intuitive, but with instruction, I seem to have properly configured the board without very many challenges. 
+* In this lab, I became familiar with using the sensors of the RedBoard Artemis Nano and receiving data using each of its sensors. The platform is not very intuitive, but with instruction, I seem to have properly configured the board without very many challenges. 
