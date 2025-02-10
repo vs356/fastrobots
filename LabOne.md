@@ -8,24 +8,24 @@
 * Configurations: The most relevant configurations in Lab 1 were the updated MAC Address and UUID, which I have copied below.
       **MAC Address:** C0:81:48:26:03:64
       **UUID:** e2402ec7-6475-4e44-8a84-14f5f0a2714a
-  ### Lab 1A: Running Examples
-  1. Blink (Video)
+### Lab 1A: Running Examples
+  1. Blink [(Video)](https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link)
 
-<img src="https://drive.google.com/uc?id=1xIzqJUezocPGHhrTWb7VjePoeF5r74GS"
+<img src="https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link"
      alt="Blink Example"/>
   2. Serial (Image)
-
 <img src="images/exSerial.png">
-  3. Temperature Sensor (Video)
+  3. Temperature Sensor [(Video)](https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link)
 
-<img src="https://drive.google.com/uc?id=1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e"
+<img src="https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link"
      alt="Temperature Sensor Example"/>
-  4. Microphone Output (Video)
+  4. Microphone Output [(Video)](https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing)
 
-<img src="https://drive.google.com/uc?id=1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U"
+<img src="https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing"
      alt="Microphone Output Example"/>
 
-  ### Lab 1B: Ensuring Communication Ability w/RedBoard Artemis Nano
+
+### Lab 1B: Ensuring Communication Ability w/RedBoard Artemis Nano
   
 
 ## 3. Discussion
