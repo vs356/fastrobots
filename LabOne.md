@@ -28,26 +28,26 @@
 
 
 ### Lab 1B: Ensuring Communication Ability w/RedBoard Artemis Nano
-* Echo Command
+* **Echo Command**
 In this task, I used the provided ECHO command in the ble_arduino.ino sketch to echo a phrase from the RedBoard Artemis Nano over the established Bluetooth connection.
 <img src="images/1BEcho.png" alt="Using the Echo Command">
 
-* Send Three Floats Command
+* **Send Three Floats Command**
 In this task, I used the provided SEND_THREE_FLOATS command in the ble_arduino.ino sketch to send three floats to the board and extracted them in the same Arduino sketch.
 <img src="images/1BThreeFloats.png" alt="Using the Send Three Floats Command">
 
-* Get Time Command
+* **Get Time Command**
 In this task, I added a command to the ble_arduino.ino sketch that would allow the RedBoard Artemis Nano to return the time elapsed since the beginning of the program in milliseconds. This functionality is demonstrated below.
 
-* Notification Handler
+* **Notification Handler**
 
-* Loop of Current Time
+* **Loop of Current Time**
 
-* Array of Time Stamps
+* **Array of Time Stamps**
 
-* Temperature Readings at Each Time Stamp
+* **Temperature Readings at Each Time Stamp**
 
-* Differences Between Methods
+* **Differences Between Methods**
 
 ## 3. Discussion
 * In this lab, I became familiar with using the sensors of the RedBoard Artemis Nano and receiving data using each of its sensors. The platform is not very intuitive, but with instruction, I seem to have properly configured the board without very many challenges. 
