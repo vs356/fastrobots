@@ -13,26 +13,31 @@
 (Links can be clicked while embedded elements are being fixed.)
 * **Blink** [(Video)](https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link)
 <img src="https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link"
-     alt="Blink Example"/>
+     alt="Blink Example">
 
 * **Serial** (Image)
 <img src="images/exSerial.png">
 
 * **Temperature Sensor** [(Video)](https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link)
 <img src="https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link"
-     alt="Temperature Sensor Example"/>
+     alt="Temperature Sensor Example">
      
 * **Microphone Output** [(Video)](https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing)
 <img src="https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing"
-     alt="Microphone Output Example"/>
+     alt="Microphone Output Example">
 
 
 ### Lab 1B: Ensuring Communication Ability w/RedBoard Artemis Nano
 * Echo Command
+In this task, I used the provided ECHO command in the ble_arduino.ino sketch to echo a phrase from the RedBoard Artemis Nano over the established Bluetooth connection.
+<img src="images/1BEcho.png" alt="Using the Echo Command">
 
 * Send Three Floats Command
+In this task, I used the provided SEND_THREE_FLOATS command in the ble_arduino.ino sketch to send three floats to the board and extracted them in the same Arduino sketch.
+<img src="images/1BThreeFloats.png" alt="Using the Send Three Floats Command">
 
 * Get Time Command
+In this task, I added a command to the ble_arduino.ino sketch that would allow the RedBoard Artemis Nano to return the time elapsed since the beginning of the program in milliseconds. This functionality is demonstrated below.
 
 * Notification Handler
 
