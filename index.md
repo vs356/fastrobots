@@ -7,3 +7,4 @@ My name is Vidhi Srivastava, and I am currently a senior at Cornell University. 
 # Lab Reports
 ### [Lab 1](./LabOne.md)
 ### [Lab 2](./LabTwo.md)
+### [Lab 3](./LabThree.md)
