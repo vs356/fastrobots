@@ -8,16 +8,13 @@
 Wiring Diagram (Image)
 
 ## Lab Tasks
-* Image of the ToF sensors and IMU connected to QWIIC breakout board.
-
-<img src="images/ToFSetup.png">
-* Screenshot of Artemis scanning for I2C device (and discussion on I2C address)
-
+* Image of the ToF sensors and IMU connected to QWIIC breakout board. The RedBoard Artemis Nano connects to the empty port labeled PWR. 
+<img src="images/ToFSetup.png" alt="Image of the ToF sensors and IMU connected to the QWIIC breakout board.">
+* Screenshot of Artemis scanning for I2C device (and discussion on I2C address): The address is shifted from the given address in the datasheet because the final bit of the I2C address is used to indicate whether data is being written (0) or read (1).
 * From the chart of distance modes in the ToF sensor datasheet, I elected to use the short-range distance mode. This mode has the least variation due to lighting and the maximum range of 136 cm (~53.5 in, 4.5 ft) seems far enough for the purposes of detecting obstacles, and close enough that the findings are relevant to a very quickly moving vehicle, so the added distance (up to 4m, also according to the datasheet) does not seem to add enough utility in exchange for the added sensitivity to lighting and volume of data stored.
 * 2 ToF sensors and the IMU: Discussion and screenshot/video of sensors working in parallel
 
-* Tof sensor speed: Discussion on speed and limiting factor; include code snippet of how you do this
-While it is important that data from the ToF sensors are sent and recorded as quickly as possible, the fastest the serial bus on the sensors can transmit data is 400 kHz.
+* Tof sensor speed: Discussion on speed and limiting factor, include code snippet of how you do this: While it is important that data from the ToF sensors are sent and recorded as quickly as possible, the fastest the serial bus on the sensors can transmit data is 400 kHz.
 * Time v Distance: Include graph of data sent over bluetooth (2 sensors)
 
 * Time v Angle: Include graph of data sent over bluetooth
