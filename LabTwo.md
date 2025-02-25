@@ -2,9 +2,9 @@
 
 ## Lab Tasks:
 ### IMU
-* Picture of your Artemis IMU connections
+* The IMU is connected to the Artemis using the shortest QWIC connector as seen in the image below.
 * Show that the IMU example code works
-* AD0_VAL definition discussion
+* According to the comments in the first example we review, AD0_VAL represents whether the ADR jumper is open (1) or closed (0).
 * Acceleration and gyroscope data discussion (pictures recommended)
 
 ### Accelerometer
