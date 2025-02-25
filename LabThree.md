@@ -9,6 +9,7 @@ Wiring Diagram (Image)
 
 ## Lab Tasks
 * Image of the ToF sensors and IMU connected to QWIIC breakout board.
+
 <img src="images/ToFSetup.png">
 * Screenshot of Artemis scanning for I2C device (and discussion on I2C address)
 
