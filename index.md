@@ -9,3 +9,4 @@ My name is Vidhi Srivastava, and I am currently a senior at Cornell University. 
 ### [Lab 2: IMU](./LabTwo.md)
 ### [Lab 3: Time of Flight Sensors](./LabThree.md)
 ### [Lab 4: Motor Drivers and Open-Loop Control](./LabFour.md)
+### [Lab 5: Linear PID control and Linear Interpolation](./LabFive.md)
