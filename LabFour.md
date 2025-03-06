@@ -2,6 +2,7 @@
 
 ## Prelab
 * The diagram below depicts how I plan to wire and solder the two motor drivers. (For clarity, only one motor driver is actually shown, but the other is connected identically with the exceptions that Ain1 and Bin1 are connected to Pin 2 and Ain2 and Bin2 are connected to Pin 3.)
+<img src="images/MotorDriverDiagram.png" alt="Pinout diagram of one of the motor drivers on the robot.">
 * It is best to power the Artemis and the motor drivers/motors from separate batteries because it protects the microcontroller from back-EMF effects, especially when we parallel-couple the two inputs and outputs on each dual motor driver to deliver twice the average current.  
 
 ## Lab Tasks
@@ -27,7 +28,7 @@ void loop() {
 * Short video of wheels spinning as expected (including code snippet it’s running on)
 * Short video of both wheels spinning (with battery driving the motor drivers)
 * The picture below shows the motor drivers soldered into the vehicle.
-
+<img src="images/SolderedMotorDriver.png" alt="Image of the soldered motor drivers.">
 * Explore the lower limit in PWM value for which the robot moves forward and on-axis turns while on the ground; note it may require slightly more power to start from rest compared to when it is running.
 * While I did not encounter the issue where my motors turned at different speeds when given the same output, I also observed that my car ran very slowly. This was unusual, but as I attempt to fix the problem, I have also dedicated some thought to my methods should I encounter this issue. I would likely choose to adjust the motor that runs faster than the other to have a slightly reduced input speed so that I could use the robot for longer (as lower torque would hopefully use less power).
 * Open loop code and video
