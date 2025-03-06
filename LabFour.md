@@ -28,7 +28,7 @@ void loop() {
 * Short video of wheels spinning as expected (including code snippet it’s running on)
 * Short video of both wheels spinning (with battery driving the motor drivers)
 * The picture below shows the motor drivers soldered into the vehicle.
-<img src="images/SolderedMotorDriver.png" alt="Image of the soldered motor drivers.">
+<img src="images/SolderedMotorDriver.jpg" alt="Image of the soldered motor drivers.">
 * Explore the lower limit in PWM value for which the robot moves forward and on-axis turns while on the ground; note it may require slightly more power to start from rest compared to when it is running.
 * While I did not encounter the issue where my motors turned at different speeds when given the same output, I also observed that my car ran very slowly. This was unusual, but as I attempt to fix the problem, I have also dedicated some thought to my methods should I encounter this issue. I would likely choose to adjust the motor that runs faster than the other to have a slightly reduced input speed so that I could use the robot for longer (as lower torque would hopefully use less power).
 * Open loop code and video
