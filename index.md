@@ -11,3 +11,9 @@ My name is Vidhi Srivastava, and I am currently a senior at Cornell University. 
 ### [Lab 4: Motor Drivers and Open-Loop Control](./LabFour.md)
 ### [Lab 5: Linear PID control and Linear Interpolation](./LabFive.md)
 ### [Lab 6: Orientation Control](./LabSix.md)
+### [Lab 7: Kalman Filtering](./LabSeven.md)
+### [Lab 8: Stunts!](./LabEight.md)
+### [Lab 9: Mapping](./LabNine.md)
+### [Lab 10: Localization (Simulation)]
+### [Lab 11: Localization (Real)]
+### [Lab 12: Planning & Execution]
