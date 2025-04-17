@@ -12,19 +12,20 @@
 ### Lab 1A: Running Examples
 (Links can be clicked while embedded elements are being fixed.)
 * **Blink** [(Video)](https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link)
-<img src="https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link"
-     alt="Blink Example">
+In this task, I ran the Blink example program available for the board in the Arduino IDE after installing the appropriate boards manager to blink the on-board LED once per second (ie. LED on for one second, then off for the next, on for the next, and so on and so forth).
+<img src="https://drive.google.com/file/d/1xIzqJUezocPGHhrTWb7VjePoeF5r74GS/view?usp=drive_link" alt="Blink Example">
 
 * **Serial** (Image)
+In this task, I ran the Serial example program from the Arduino IDE, which echoes input into the Serial Monitor (set to a baud rate of 115200), as shown in the image below. 
 <img src="images/exSerial.png">
 
 * **Temperature Sensor** [(Video)](https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link)
-<img src="https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link"
-     alt="Temperature Sensor Example">
+In this task, I ran the analogRead example program to test the on-board temperature sensor. This program outputs the value reported by the temperature sensor to the Serial Monitor. 
+<img src="https://drive.google.com/file/d/1gojz9QNEUzZ2iIfegu5upLsX2VUIe07e/view?usp=drive_link" alt="Temperature Sensor Example">
      
 * **Microphone Output** [(Video)](https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing)
-<img src="https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing"
-     alt="Microphone Output Example">
+In this task, I ran the Microphone Output example program to test the on-board microphone. This program outputs the loudest frequency observed to the Serial Monitor.
+<img src="https://drive.google.com/file/d/1HumIYP9cOY7PDWdwWlvY7f89ZkB_L09U/view?usp=sharing" alt="Microphone Output Example">
 
 
 ### Lab 1B: Ensuring Communication Ability w/RedBoard Artemis Nano
