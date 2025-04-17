@@ -1,4 +1,4 @@
-# Lab 9: Mapping
+# Lab 9: Mapping (Due 4/15/2025)
 ## Prelab
 In this lab, we use the fully assembled robot (mainly the ToF sensors, IMU, the open-loop control established in Lab 6) to allow the robot to map its surroundings and identify viable paths. I also reviewed Lecture 2 (transformation matrices) before beginning work on this lab.
 
