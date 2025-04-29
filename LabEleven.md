@@ -1,0 +1,1 @@
+To demonstrate that you’ve successfully completed the lab, please upload a brief lab report (<1000 words), with code (not included in the word count), photos, and videos documenting that everything worked and what you did to make it happen. Include the robot’s belief after localization for each pose, compare it with the ground truth pose, and write down your inference.
