@@ -42,7 +42,7 @@ In this task, I used the provided SEND_THREE_FLOATS command in the ble_arduino.i
 
 * **Get Time Command**
 In this task, I added a command to the ble_arduino.ino sketch that would allow the RedBoard Artemis Nano to return the time elapsed since the beginning of the program in milliseconds. This functionality is demonstrated below.  
-<img src="images/1BTimeMillis.png" alt="Using the Get Time Millis Command">
+<img src="images/1BTimeMillisCode.png" alt="Implementing the Get Time Millis Command">
 <img src="images/1BTimeMillisJupy.png" alt="Using the Get Time Millis Command">
 <img src="images/1BTimeMillis.png" alt="Output of the Get Time Millis Command">
 
