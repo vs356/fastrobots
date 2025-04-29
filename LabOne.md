@@ -30,18 +30,18 @@ In this task, I ran the Microphone Output example program to test the on-board m
 
 ### Lab 1B: Ensuring Communication Ability w/RedBoard Artemis Nano
 * **Echo Command**
-In this task, I used the provided ECHO command in the ble_arduino.ino sketch to echo a phrase from the RedBoard Artemis Nano over the established Bluetooth connection.
+In this task, I used the provided ECHO command in the ble_arduino.ino sketch to echo a phrase from the RedBoard Artemis Nano over the established Bluetooth connection.  
 <img src="images/1BEchoCode.png" alt="Implementation of Echo Command">
 <img src="images/1BEcho.png" alt="Using the Echo Command">
 
 * **Send Three Floats Command**
-In this task, I used the provided SEND_THREE_FLOATS command in the ble_arduino.ino sketch to send three floats to the board and extracted them in the same Arduino sketch.
+In this task, I used the provided SEND_THREE_FLOATS command in the ble_arduino.ino sketch to send three floats to the board and extracted them in the same Arduino sketch.  
 <img src="images/1BThreeFloatsCode.png" alt="Implementing the Send Three Floats Command">
 <img src="images/1BThreeFloatsJupy.png" alt="Using the Send Three Floats Command">
 <img src="images/1BThreeFloats.png" alt="Output of Send Three Floats Command">
 
 * **Get Time Command**
-In this task, I added a command to the ble_arduino.ino sketch that would allow the RedBoard Artemis Nano to return the time elapsed since the beginning of the program in milliseconds. This functionality is demonstrated below.
+In this task, I added a command to the ble_arduino.ino sketch that would allow the RedBoard Artemis Nano to return the time elapsed since the beginning of the program in milliseconds. This functionality is demonstrated below.  
 <img src="images/1BTimeMillis.png" alt="Using the Get Time Millis Command">
 <img src="images/1BTimeMillisJupy.png" alt="Using the Send Three Floats Command">
 <img src="images/1BTimeMillis.png" alt="Output of the Get Time Millis Command">
