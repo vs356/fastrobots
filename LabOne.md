@@ -47,21 +47,21 @@ In this task, I added a command to the ble_arduino.ino sketch that would allow t
 <img src="images/1BTimeMillis.png" alt="Output of the Get Time Millis Command">
 
 * **Task 4: Notification Handler**
-In this task, I created a notification handler in the demo notebook (Jupyter Notebook) that would extract data from the RX string.
+In this task, I created a notification handler in the demo notebook (Jupyter Notebook) that would extract data from the RX string.  
 <img src="images/1BNotifHandler.png" alt="Implementing the Notification Handler">
 
 * **Task 5: Loop of Current Time**
-In this task, I created a loop to send/receive time data so that the speed of data transfer could be measured.
+In this task, I created a loop to send/receive time data so that the speed of data transfer could be measured.  
 <img src="images/1BSendingCode.png" alt="Implementing the Sending Command">
 <img src="images/1BNotifLoop.png" alt="Implementing the Loop">
 
 * **Task 6: Array of Time Stamps**
-In this task, I create an array of timestamps that is populated by the Send Time Data command to achieve the previous goal in a different way.
+In this task, I create an array of timestamps that is populated by the Send Time Data command to achieve the previous goal in a different way.  
 <img src="images/1BSendTimeDataCode.png" alt="Implementing the Send Time Data Command">
 <img src="images/1BSendTimeDataJupy.png" alt="Using the Send Time Data Command">
 
 * **Task 7: Temperature Readings at Each Time Stamp**
-In this task, I implement the Get Temp Readings command to store the output from the temperature sensor for each timestamp recorded in the loop (Task 5).
+In this task, I implement the Get Temp Readings command to store the output from the temperature sensor for each timestamp recorded in the loop (Task 5).  
 <img src="images/1BTempReadingsJupy.png" alt="Implementing the Get Temp Readings Command">
 <img src="images/1BTempReadingsJupy.png" alt="Using the Get Temp Readings Command">
 
