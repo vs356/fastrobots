@@ -14,6 +14,6 @@ My name is Vidhi Srivastava, and I am currently a senior at Cornell University. 
 ### [Lab 7: Kalman Filtering](./LabSeven.md)
 ### [Lab 8: Stunts!](./LabEight.md)
 ### [Lab 9: Mapping](./LabNine.md)
-### [Lab 10: Localization (Simulation)]
-### [Lab 11: Localization (Real)]
-### [Lab 12: Planning & Execution]
+### [Lab 10: Localization (Simulation)](./LabTen.md)
+### [Lab 11: Localization (Real)](./LabEleven.md)
+### [Lab 12: Planning & Execution](./LabTwelve.md)
